@@ -165,7 +165,7 @@ export default function FriendDetails() {
                   <span className="text-sm">Call</span>
                 </button>
 
-                {/* Text */}
+              
                 <button
                   onClick={() => handleClick("Text")}
                   className="flex flex-col items-center justify-center border rounded-lg p-4 hover:bg-base-200 hover:scale-105 active:scale-95 transition"
@@ -174,7 +174,7 @@ export default function FriendDetails() {
                   <span className="text-sm">Text</span>
                 </button>
 
-                {/* Video */}
+               
                 <button
                   onClick={() => handleClick("Video")}
                   className="flex flex-col items-center justify-center border rounded-lg p-4 hover:bg-base-200 hover:scale-105 active:scale-95 transition"
