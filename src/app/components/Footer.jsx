@@ -14,12 +14,13 @@ const Footer = () => {
           Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.
         </p>
 
-        {/* Social Links Section - Compact */}
+     
+     
         <div className="mb-6">
           <p className="text-sm font-medium mb-2">Social Links</p>
           <div className="flex gap-3 justify-center">
           
-          
+
             <a href="#" className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-gray-200 transition-all">
               <FaInstagram size={16} />
             </a>
