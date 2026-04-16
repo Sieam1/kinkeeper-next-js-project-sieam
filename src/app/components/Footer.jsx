@@ -33,7 +33,7 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* Bottom Bar - Reduced padding and gap */}
+      
         <div className="w-full pt-4 border-t border-emerald-800 flex flex-col md:flex-row justify-between items-center gap-3 text-[10px] md:text-xs text-gray-400">
           <p>© 2026 KeenKeeper. All rights reserved.</p>
           
