@@ -18,12 +18,13 @@ const Footer = () => {
         <div className="mb-6">
           <p className="text-sm font-medium mb-2">Social Links</p>
           <div className="flex gap-3 justify-center">
-            {/* Instagram */}
+          
+          
             <a href="#" className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-gray-200 transition-all">
               <FaInstagram size={16} />
             </a>
           
-          
+
             <a href="#" className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-gray-200 transition-all">
               <FaFacebookF size={14} />
             </a>
