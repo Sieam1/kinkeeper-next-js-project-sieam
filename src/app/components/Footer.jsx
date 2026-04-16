@@ -22,12 +22,13 @@ const Footer = () => {
             <a href="#" className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-gray-200 transition-all">
               <FaInstagram size={16} />
             </a>
-            {/* Facebook */}
+          
+          
             <a href="#" className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-gray-200 transition-all">
               <FaFacebookF size={14} />
             </a>
            
-           
+
             <a href="#" className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-gray-200 transition-all">
               <FaXTwitter size={14} />
             </a>
