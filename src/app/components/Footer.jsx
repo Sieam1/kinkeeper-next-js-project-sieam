@@ -6,16 +6,17 @@ const Footer = () => {
     <footer className="bg-[#064e3b] text-white py-6 px-4 font-sans">
       <div className="max-w-6xl mx-auto flex flex-col items-center text-center">
         
-        {/* Brand Name - Reduced Size */}
+      
         <h2 className="text-2xl md:text-3xl font-bold mb-2">KeenKeeper</h2>
         
-        {/* Tagline - Smaller text and less margin */}
+       
+
         <p className="max-w-xl text-xs md:text-sm text-gray-200 mb-4 leading-snug">
           Your personal shelf of meaningful connections. Browse, tend, and nurture the relationships that matter most.
         </p>
 
      
-     
+
         <div className="mb-6">
           <p className="text-sm font-medium mb-2">Social Links</p>
           <div className="flex gap-3 justify-center">
